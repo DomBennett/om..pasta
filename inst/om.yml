@@ -1,0 +1,11 @@
+# descriptive name of the program
+# (The explicit name of the program is determined from the R package name
+#  specified in the DESCRIPTION.)
+program: pasta
+# any details about the program
+details: PASTA (Practical Alignment using Sate and TrAnsitivity) algorithm.
+# the dockerhub username (optional)
+docker: dombennett
+# repo information (optional)
+github: dombennett
+url: https://github.com/dombennett/om..pasta

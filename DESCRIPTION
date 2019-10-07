@@ -1,0 +1,13 @@
+Package: om..pasta
+Type: Package
+Version: 0.0.1
+Title: Outsider module for running pasta
+Description: Install and run pasta from within R.
+Encoding: UTF-8
+Depends:
+    R (>= 3.6.0)
+Imports:
+    outsider.base
+Suggests:
+    outsider
+RoxygenNote: 6.1.1
