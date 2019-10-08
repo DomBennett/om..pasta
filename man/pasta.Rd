@@ -7,7 +7,7 @@
 pasta(arglist = arglist_get(...), outdir = getwd())
 }
 \arguments{
-\item{arglist}{Arguments for readal}
+\item{arglist}{Arguments for pasta}
 
 \item{outdir}{Filepath to output files are placed}
 }

@@ -1,7 +1,7 @@
 #' @name pasta
 #' @title pasta
 #' @description Run pasta
-#' @param arglist Arguments for readal
+#' @param arglist Arguments for pasta
 #' @param outdir Filepath to output files are placed
 #' @example /examples/example.R
 #' @export
