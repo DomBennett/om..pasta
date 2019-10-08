@@ -1,7 +1,8 @@
 #' @name pasta
 #' @title pasta
 #' @description Run pasta
-#' @param ... Arguments
+#' @param arglist Arguments for readal
+#' @param outdir Filepath to output files are placed
 #' @example /examples/example.R
 #' @export
 pasta <- function(arglist = arglist_get(...), outdir = getwd()) {
