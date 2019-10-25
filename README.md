@@ -1,4 +1,4 @@
-# Run `pasta` with `outsider` in R
+# Run [`pasta`](https://github.com/smirarab/pasta) with `outsider` in R
 [![Build Status](https://travis-ci.org/dombennett/om..pasta.svg?branch=master)](https://travis-ci.org/dombennett/om..pasta)
 
 
