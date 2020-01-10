@@ -1,6 +1,6 @@
 #' @name pasta
-#' @title pasta
-#' @description Run pasta
+#' @title Practical Alignment using SATe and Transitivity
+#' @description Run pasta in R.
 #' @param arglist Arguments for pasta
 #' @param outdir Filepath to output files are placed
 #' @example /examples/example.R

@@ -2,7 +2,7 @@
 % Please edit documentation in R/functions.R
 \name{pasta}
 \alias{pasta}
-\title{pasta}
+\title{Practical Alignment using SATe and Transitivity}
 \usage{
 pasta(arglist = arglist_get(...), outdir = getwd())
 }
@@ -12,7 +12,7 @@ pasta(arglist = arglist_get(...), outdir = getwd())
 \item{outdir}{Filepath to output files are placed}
 }
 \description{
-Run pasta
+Run pasta in R.
 }
 \examples{
 library(outsider)
@@ -24,7 +24,7 @@ pasta('-h')
 
 # Real Example
 # download
-wd <- file.path(getwd(), 'example_job')
+wd <- file.path(tempdir(), 'example_job')
 if (!dir.exists(wd)) {
   dir.create(wd)
 }
